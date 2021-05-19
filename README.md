@@ -1,1 +1,0 @@
-# fpay-sdk-android-demo
