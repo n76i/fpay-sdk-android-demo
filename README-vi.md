@@ -7,7 +7,7 @@ English version see here
 # Giới thiệu
 FPay SDK là thư viện để các app có thể tương tác FPay. FPay SDK bao gồm các chức năng chính như sau:
 - Sử dụngg FID SDK để đăng nhập vào hệ thống của FPay
-- Hiện tại FID SDK hỗ trợ tất cả các thiệt bị cài đặt hệ điều hành Android 4.1 (API 16) trở lên.
+- Hiện tại FPay SDK hỗ trợ tất cả các thiệt bị cài đặt hệ điều hành Android 4.1 (API 16) trở lên.
 
 ## Hỗ trợ
 Nếu trong quá trình tích hợp có thắc mắc gì bạn có thể:
