@@ -1,0 +1,4 @@
+include ':fid-sdk'
+include ':fpay-sdk'
+include ':app'
+rootProject.name = "FPay Demo"

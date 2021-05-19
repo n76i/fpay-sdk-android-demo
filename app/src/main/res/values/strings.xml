@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FPay SDK</string>
+    <string name="fid_app_id">6669642d646576</string>
+    <string name="fid_scheme">ai.ftech.id-dev</string>
+    <string name="hello_please_log_in_to_view_account_information">Hello, please log in to view account information</string>
+    <string name="fid_logged_out">FID logged out</string>
+    <string name="fid_logged_in">FID logged in</string>
+    <string name="hello">Hello,</string>
+    <string name="view_your_account_balance">View your account balance</string>
+</resources>
